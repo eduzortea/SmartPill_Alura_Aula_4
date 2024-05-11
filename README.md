@@ -9,7 +9,7 @@ O Smart Pill interage diretamente com a Gemini API para coletar respostas a perg
 ## Funcionalidades 🌟
 - **Interatividade com IA**: Utiliza a IA Gemini para obter dados personalizados.
 - **Geração de Plano em PDF**: Cria um plano detalhado com horários para a administração de um ou vários medicamentos.
-- **Integração com Google Calendar**: Inclui um código QR no plano PDF para adicionar facilmente os horários de medicação ao seu calendário.
+- **(ATENCAO EM DESENVOLVIMENTO) Integração com Google Calendar**: Inclui um código QR no plano PDF para adicionar facilmente os horários de medicação ao seu calendário.
 - **Lembretes Automáticos**: Ajuda a evitar o esquecimento da administração de medicamentos através de lembretes programados.
 
 ## Tecnologias Utilizadas 💻
